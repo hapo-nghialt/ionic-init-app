@@ -28,7 +28,10 @@
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {},
-      "phonegap-plugin-push": {}
+      "phonegap-plugin-push": {
+        "locator": "phonegap-plugin-push",
+        "id": "phonegap-plugin-push"
+      }
     },
     "platforms": [
       "ios"
